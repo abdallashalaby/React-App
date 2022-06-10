@@ -1,0 +1,15 @@
+body{
+font-family: sans-serif;
+}
+.screenshots{
+text-align: center;
+}
+.screens{
+display: flex;
+justify-content: space-between;
+}
+.screenshots .screens img{
+width: 300px;
+}
+
+

@@ -1,0 +1,29 @@
+.Nav, .links{
+display: flex;
+justify-content: space-between;
+text-align: center;
+}
+.Nav{
+width: 80%;
+margin-left:10%;
+margin-right:10%;
+margin-bottom: 50px;
+}
+button{
+background-color: #FF1493;
+border-color: transparent;
+color: white;
+cursor: pointer;
+}
+#GS{
+height: 40px;
+width: 100px;
+border-radius: 10px;
+}
+.links span{
+color: black;
+text-decoration: none;
+list-style: none;
+margin-right: 10px;
+}
+

@@ -1,0 +1,18 @@
+.Footer{
+background: linear-gradient(to right, #FF1493, #FF7F50);
+margin-top: 50px;
+color: white;
+Height: 200px;
+}
+.counters{
+display: flex;
+justify-content: space-between;
+text-align: center;
+}
+.counts{
+font-family: sans-serif;
+font-size: large;
+padding-right: 100px;
+padding-left: 100px;
+padding-top: 75px;
+}
